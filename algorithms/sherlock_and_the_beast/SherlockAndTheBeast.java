@@ -41,7 +41,6 @@ public class SherlockAndTheBeast {
     	for (int i = 0; i < threeCount; i++) {
     		sb.append("3");
     	}
-	
     	return sb.toString();
 	}
 }
